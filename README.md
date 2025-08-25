@@ -1,13 +1,13 @@
 # FFFA: Foxes and Fireflies Foraging Algorithm
 
 <p align="center">
-  <a href="https://pypi.org/project/LCS-Algorithms/"><img src="https://img.shields.io/pypi/v/lcs-algorithms.svg" alt="PyPI Version"></a>
-  <a href="https://github.com/zeshanalvi/LCS_Algorithms/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/lcs-algorithms.svg" alt="License"></a>
-  <a href="https://pepy.tech/project/LCS-Algorithms/"><img src="https://static.pepy.tech/badge/lcs-algorithms" alt="Downloads"></a>
-  <a href="https://pypi.org/project/LCS-Algorithms/"><img src="https://img.shields.io/pypi/pyversions/lcs-algorithms.svg" alt="Python Versions"></a>
-  <a href="https://github.com/zeshanalvi/lcs_algorithms/stargazers"><img src="https://img.shields.io/github/stars/zeshanalvi/lcs_algorithms?style=social" alt="GitHub Stars"></a>
-  <a href="https://github.com/zeshanalvi/lcs_algorithms/commits/main"><img src="https://img.shields.io/github/last-commit/zeshanalvi/lcs_algorithms.svg" alt="Last Commit"></a>
-  <a href="https://github.com/zeshanalvi/lcs_algorithms/issues"><img src="https://img.shields.io/github/issues/zeshanalvi/lcs_algorithms.svg" alt="Open Issues"></a>
+  <a href="https://pypi.org/project/fffa/"><img src="https://img.shields.io/pypi/v/fffa.svg" alt="PyPI Version"></a>
+  <a href="https://github.com/zeshanalvi/fffa/blob/main/LICENSE"><img src="https://img.shields.io/pypi/l/fffa.svg" alt="License"></a>
+  <a href="https://pepy.tech/project/fffa/"><img src="https://static.pepy.tech/badge/fffa" alt="Downloads"></a>
+  <a href="https://pypi.org/project/fffa/"><img src="https://img.shields.io/pypi/pyversions/fffa.svg" alt="Python Versions"></a>
+  <a href="https://github.com/zeshanalvi/fffa/stargazers"><img src="https://img.shields.io/github/stars/zeshanalvi/fffa?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/zeshanalvi/fffa/commits/main"><img src="https://img.shields.io/github/last-commit/zeshanalvi/fffa.svg" alt="Last Commit"></a>
+  <a href="https://github.com/zeshanalvi/fffa/issues"><img src="https://img.shields.io/github/issues/zeshanalvi/fffa.svg" alt="Open Issues"></a>
 </p>
 
 FFFA is a **nature-inspired single-solution optimization algorithm** that mimics the foraging behavior of foxes and fireflies.  
