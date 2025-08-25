@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="fffa",  # lowercase, PyPI name
-    version="0.1.0",
+    version="0.1.1",
     author="Zeshan Khan",
     author_email="zeshankhanalvi@gmail.com ",
-    description="FFFA: A Nature-Inspired Single Solution Optimization Algorithm",
+    description="FFFA: A Nature-Inspired Optimization Algorithm",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/zeshanalvi/FFFA",

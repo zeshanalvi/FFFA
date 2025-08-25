@@ -1,4 +1,4 @@
-# FFFA: Foxes and Fireflies Foraging Algorithm
+# FFFA: Food Finding Foxes Algorithm
 
 <p align="center">
   <a href="https://pypi.org/project/fffa/"><img src="https://img.shields.io/pypi/v/fffa.svg" alt="PyPI Version"></a>
@@ -10,7 +10,7 @@
   <a href="https://github.com/zeshanalvi/fffa/issues"><img src="https://img.shields.io/github/issues/zeshanalvi/fffa.svg" alt="Open Issues"></a>
 </p>
 
-FFFA is a **nature-inspired single-solution optimization algorithm** that mimics the foraging behavior of foxes and fireflies.  
+FFFA is a **nature-inspired single-solution optimization algorithm** that mimics the foraging behavior of foxes.  
 It is designed for solving **path optimization problems** (e.g., shortest path, graph-based problems) where a weight matrix is provided as input.  
 
 ---
