@@ -54,7 +54,7 @@ Lightweight and easy to integrate
 
 ## Project Structure
 
-```bash
+```
 FFFA/
 │── fffa/                 # Main package
 │   ├── __init__.py
